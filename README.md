@@ -6,3 +6,4 @@ Datapack includes the following:
 * Double Slab Recipes (From HermitCraft)
 * More Stairs 4 to 8 (From HermitCraft)
 * Renewable Coral (From HermitCraft)
+* More Bricks (From HermitCraft)
