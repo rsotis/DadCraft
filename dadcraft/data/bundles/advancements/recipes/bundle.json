@@ -15,7 +15,7 @@
 		"has_the_recipe": {
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
-				"recipe": "bundles:coral/brain_coral"
+				"recipe": "bundles:bundle"
 			}
 		}
 	},
@@ -27,7 +27,7 @@
 	],
 	"rewards": {
 		"recipes": [
-			"bundles:brain_coral_block"
+			"bundles:bundle"
 		]
 	}
 }
