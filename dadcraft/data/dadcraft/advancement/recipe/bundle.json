@@ -1,0 +1,28 @@
+
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_hide": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:rabbit_hide"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_hide"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"dadcraft:bundle"
+		]
+	}
+}
