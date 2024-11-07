@@ -8,4 +8,3 @@ Datapack includes the following:
 * Renewable Coral (From HermitCraft)
 * More Bricks (From HermitCraft)
 * Sandstone to Sand Recipes
-* Ability to craft Bundles using Rabbit Hide
