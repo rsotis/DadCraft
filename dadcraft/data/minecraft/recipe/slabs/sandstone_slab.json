@@ -2,9 +2,7 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:smooth_sandstone"
-        }
+        "minecraft:smooth_sandstone"
     ],
     "result": {
         "id": "minecraft:sandstone_slab",
