@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "id": "minecraft:sandstone"
+            "item": "minecraft:sandstone"
         }
     ],
     "result": {
@@ -10,4 +10,3 @@
         "count": 2
     }
 }
-
