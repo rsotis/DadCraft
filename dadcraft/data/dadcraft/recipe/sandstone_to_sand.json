@@ -1,8 +1,8 @@
 {
-    "type": "crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:sandstone"
+            "id": "minecraft:sandstone"
         }
     ],
     "result": {
