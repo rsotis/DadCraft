@@ -7,9 +7,7 @@
 		"###"
     ],
     "key": {
-        "#": {
-            "tag": "coral_blocks:horn_coral"
-        }
+        "#": "#coral_blocks:horn_coral"
     },
     "result": {
         "id": "minecraft:horn_coral_block",
