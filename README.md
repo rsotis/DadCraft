@@ -27,3 +27,12 @@ Crafting Tweeks (DadCraft-Crafting-[VER].zip)
 * Craftable Coral Blocks 2x2
 
 Resource Pack (DadCraft-ResourcePack-[VER].zip)
+* Variated Cobblestone
+* Variated Bricks
+* Variated Grass
+* Unique Painting Items
+* Directional Hoppers
+* Directional Dispensers & Droppers
+* Direactional Observers
+* Redstone Power Levels
+* Brewing Guide
