@@ -17,7 +17,7 @@ Datapacks
 * More Mob Heads
 * Painting Picker
 
-Crafting Tweeks (DadCraft-Crafting-<VER>.zip)
+Crafting Tweeks (DadCraft-Crafting-[VER].zip)
 * Back to Blocks
 * Copper Powered Rails
 * Dropper to Dispenser
@@ -26,4 +26,4 @@ Crafting Tweeks (DadCraft-Crafting-<VER>.zip)
 * More Trapdoors
 * Craftable Coral Blocks 2x2
 
-Resource Pack (DadCraft-ResourcePack-<VER>.zip)
+Resource Pack (DadCraft-ResourcePack-[VER].zip)
